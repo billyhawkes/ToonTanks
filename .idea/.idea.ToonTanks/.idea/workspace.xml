@@ -11,11 +11,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f042d98e-22a0-4b56-9b4c-0a5b6b08e7ce" name="Changes" comment="Initial commit" />
+    <list default="true" id="f042d98e-22a0-4b56-9b4c-0a5b6b08e7ce" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/Source/ToonTanks/CPP_Character.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ToonTanks/CPP_Character.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ToonTanks/CPP_PlayerController.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ToonTanks/CPP_PlayerController.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TestLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TestLevel.umap" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +50,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2oqh3MofmBi4pBvXUmFG2ySEpIR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -160,7 +172,7 @@
       <workItem from="1731602814903" duration="12000" />
       <workItem from="1731603078141" duration="215000" />
       <workItem from="1731603382115" duration="291000" />
-      <workItem from="1731603694938" duration="1400000" />
+      <workItem from="1731603694938" duration="4719000" />
     </task>
     <servers />
   </component>

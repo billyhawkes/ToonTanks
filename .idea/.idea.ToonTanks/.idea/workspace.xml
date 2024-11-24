@@ -11,12 +11,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f042d98e-22a0-4b56-9b4c-0a5b6b08e7ce" name="Changes" comment="Initial commit">
+    <list default="true" id="f042d98e-22a0-4b56-9b4c-0a5b6b08e7ce" name="Changes" comment="update">
       <change afterPath="$PROJECT_DIR$/Source/ToonTanks/CPP_Character.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Source/ToonTanks/CPP_Character.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Source/ToonTanks/CPP_PlayerController.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Source/ToonTanks/CPP_PlayerController.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BP_StaticCamera.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BP_StaticCamera.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/BP_Character.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/BP_Character.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/BP_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/BP_PlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/Input/TankMapping.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/Input/TankMapping.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/TestLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/TestLevel.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TT_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TT_GameMode.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/TestLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TestLevel.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,18 +36,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "billyhawkes"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;billyhawkes&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/billyhawkes/ToonTanks.git",
-    "accountId": "667847a1-8bfb-4d85-924b-0549b10aed51"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/billyhawkes/ToonTanks.git&quot;,
+    &quot;accountId&quot;: &quot;667847a1-8bfb-4d85-924b-0549b10aed51&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://C:/Users/billy/Documents/Unreal Projects/ToonTanks/Intermediate/Build/BuildRulesProjects/ToonTanksModuleRules/obj/Development/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -57,26 +63,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ Project.ToonTanks.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "RiderNuGetOptionsPageId",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ Project.ToonTanks.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;&lt;unknown&gt;&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;RiderNuGetOptionsPageId&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "GitIgnore"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;GitIgnore&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C/C++ Project.ToonTanks">
     <configuration name="ToonTanks" type="CppProject" factoryName="C++ Project">
       <configuration_1 setup="1">
@@ -172,7 +179,9 @@
       <workItem from="1731602814903" duration="12000" />
       <workItem from="1731603078141" duration="215000" />
       <workItem from="1731603382115" duration="291000" />
-      <workItem from="1731603694938" duration="4719000" />
+      <workItem from="1731603694938" duration="6624000" />
+      <workItem from="1732481870390" duration="95000" />
+      <workItem from="1732481974970" duration="1000" />
     </task>
     <servers />
   </component>
@@ -184,6 +193,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

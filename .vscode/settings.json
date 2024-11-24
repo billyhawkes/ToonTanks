@@ -1,0 +1,10 @@
+{
+    "unreal-clangd.creation.overwrite": "full",
+    "unreal-clangd.utility.createProjectOnStartup": false,
+    "C_Cpp.autocomplete": "disabled",
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.formatting": "disabled",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "unreal-clangd.creation.compilerPath": "c:\\Users\\billy\\AppData\\Roaming\\Cursor\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\18.1.3\\clangd_18.1.3\\bin\\clang-cl.exe",
+    "editor.suggest.snippetsPreventQuickSuggestions": false
+}

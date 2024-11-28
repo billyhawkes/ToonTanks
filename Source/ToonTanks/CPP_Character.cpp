@@ -11,11 +11,7 @@ ACPP_Character::ACPP_Character()
 }
 
 // Called when the game starts or when spawned
-void ACPP_Character::BeginPlay()
-{
-    Super::BeginPlay();
-    UE_LOG(LogTemp, Warning, TEXT("Character Spawned 2"));
-}
+void ACPP_Character::BeginPlay() { Super::BeginPlay(); }
 
 // Called every frame
 void ACPP_Character::Tick(float DeltaTime) { Super::Tick(DeltaTime); }
